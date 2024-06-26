@@ -24,3 +24,11 @@
 > **Query**: What I'm looking for\
 > **Key**: What I've to offer\
 > **Value**: what I actually offer
+
+## References Used
+
+1. [Batch Layer Normalization - Pinecone](https://www.pinecone.io/learn/batch-layer-normalization/)
+2. [Stack Overflow: How is the number of parameters calculated in BERT model?](https://stackoverflow.com/questions/64485777/how-is-the-number-of-parameters-be-calculated-in-bert-model)
+3. [YouTube: Code Emporium](https://www.youtube.com/@CodeEmporium)
+4. [Attention Is All You Need - Arxiv Paper](https://arxiv.org/abs/1706.03762)
+5. [The Illustrated Transformer - Jay Alammar's Blog](https://jalammar.github.io/illustrated-transformer/)
